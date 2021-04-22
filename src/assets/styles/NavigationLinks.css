@@ -1,0 +1,38 @@
+.Nav{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: #12253d;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 1512px;
+    margin-top: 60px;
+}
+
+.productImage 
+{
+    background-color: #12253d;
+    overflow: hidden;
+    padding-bottom: 10px;
+    height: 40 px;
+}
+
+.productImage  p
+{
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.grid
+{
+    display: grid;
+    
+}
+
+.grid-col-4
+{
+    grid-template-columns: repeat(8,1fr);
+}

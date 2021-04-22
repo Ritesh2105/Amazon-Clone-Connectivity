@@ -1,0 +1,261 @@
+{"categories": [
+   {
+      "id":1001,
+      "category_Name":"Lighting Solutions",
+      "category_poster":"LightingSolutions.jpg"
+   },
+   {
+      "id":1002,
+      "category_Name":"Laptops",
+      "category_poster":"Laptops.jpg"
+   },
+   {
+      "id":1003,
+      "category_Name":"Mobiles",
+      "category_poster":"Mobiles.jpg"
+   },
+   {
+      "id":1004,
+      "category_Name":"Accessories",
+      "category_poster":"Accessories.jpg"
+   },
+   {
+      "id":1005,
+      "category_Name":"Fashion",
+      "category_poster":"Fashion.jpg"
+   },
+   {
+      "id":1006,
+      "category_Name":"Cameras",
+      "category_poster":"Cameras.jpg"
+   },
+   {
+      "id":1007,
+      "category_Name":"Men's Grooming",
+      "category_poster":"MensGrooming.jpg"
+   },
+   {
+      "id":1008,
+      "category_Name":"Watches",
+      "category_poster":"Watches.jpg"
+   }
+],
+  "products": [
+     {
+        "id": 1,
+        "category_id":"1001",
+        "title": "Aesthetic Home Solutions Downward Led Wall Light",
+        "poster": "ls1.jpg",
+        "description": "Material: Metal And Glass, Dimensions(LxBxH) in inches: 7x6x13, Color: Pink And Golden, Wall Lights, Hanging Lights, Lamps, Lamp Shades, Led Products, Aesthetic Home Solutions Is An Independent Brand Based Out Of New Delhi That Offers Quality Goods, By Combining Innovative Design With Quality, We Believe That Delivering Value Is The Only Way To Succeed And Grow. The Brand Has Good Online Presence And Now Serving To Whole Of India And Abroad.,Color: Pink And Golden",
+        "price": "$ 1,899.00",
+        "bestSeller": true
+     },
+     {
+        "id": 2,
+        "category_id":"1001",
+        "title": "Aesthetic Home Solutions White Wall Light",
+        "poster": "ls2.jpg",
+        "description": "Dimensions(LxBxH) in inches: 4x4x10, Bulb Recommended: CFL, LED, Incandescent; Bulb Included: No; Holder Type: E27, Color: Black, Material: Metal And Glass, Welcome To Aesthetic Home Solutions. We Deal In High Quality, Unique And Durable Chandeliers, Wall Lights, Hanging Lights, Lamps, Lamp Shades, Led Products, Etc. Aesthetic Home Solutions Is An Independent Brand Based Out Of New Delhi That Offers Quality Goods, By Combining Innovative Design With Quality, We Believe That Delivering Value Is The Only Way To Succeed And Grow. The Brand Has Good Online Presence And Now Serving To Whole Of India And Abroad.",
+        "price": "$ 2,480.00",
+        "bestSeller": false
+     },
+     {
+        "id": 3,
+        "category_id":"1001",
+        "title": "The Light Studio Chrome Wall Light with 1 Lights",
+        "poster": "ls3.jpg",
+        "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+        "price": "$ 3000.00",
+        "bestSeller": false
+     },
+     {
+        "id": 4,
+        "category_id":"1001",
+        "title": "Aesthetic Home Solutions Aesthtic Home Solution Single Shade Multi Color Led Wall Light",
+        "poster": "ls4.jpg",
+        "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+        "price": "$ 1,199.00",
+        "bestSeller" : true
+     },
+     {
+      "id": 5,
+      "category_id":"1001",
+      "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+      "poster": "ls5.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 4,299.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 6,
+      "category_id":"1001",
+      "title": "Aesthetic Home Solutions Elephant Wall Light",
+      "poster": "ls6.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 4,399.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 7,
+      "category_id":"1001",
+      "title": "Aesthetic Home Solutions Golden Peacock Wall Light",
+      "poster": "ls7.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 4,289.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 8,
+      "category_id":"1001",
+      "title": "Eyeshot LED Wall lamp, Leaf-Shaped Wall Light, Modern Design , Bedroom, Corridor, Living Room Double Light Feature (White and Warm White )",
+      "poster": "ls8.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 1,299.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 9,
+      "category_id":"1001",
+      "title": "US DZIRE - THE BRAND OF LIFESTYLE 406PLN 15W Ceiling Light, Beige, Natural wood teak",
+      "poster": "ls9.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 3,299.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 10,
+      "category_id":"1001",
+      "title": "Amazon Brand - Solimo 5 Metre 50 LED Copper String Light for Decoration, USB Powered, Warm White",
+      "poster": "ls10.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 4,299.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 11,
+      "category_id":"1001",
+      "title": "Grow More Enterprise 40-Watts e27 LED Warm White Bulb, Pack of 2",
+      "poster": "ls11.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 4,299.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 12,
+      "category_id":"1001",
+      "title": "SINOMAN Golden Antique Design Aluminium Wall Light Sconce Lamp with Glass Shade for Dining",
+      "poster": "ls12.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 1,299.00",
+      "bestSeller" : true
+   },
+   {
+      "id": 13,
+      "category_id":"1001",
+      "title": "DarkVision Black Antique Designer Wall Ceiling Light Lamp Sconce for Dining Room, Bedroom, Living Room Decor (VD-1106) (Wall Single)",
+      "poster": "ls13.jpg",
+      "description": "Material: Metal And Glass, Dimensions(LxBxH) in inches: 7x6x13, Color: Pink And Golden, Wall Lights, Hanging Lights, Lamps, Lamp Shades, Led Products, Aesthetic Home Solutions Is An Independent Brand Based Out Of New Delhi That Offers Quality Goods, By Combining Innovative Design With Quality, We Believe That Delivering Value Is The Only Way To Succeed And Grow. The Brand Has Good Online Presence And Now Serving To Whole Of India And Abroad.,Color: Pink And Golden",
+      "price": "$ 1,899.00",
+      "bestSeller": true
+   },
+   {
+      "id": 14,
+      "category_id":"1001",
+      "title": "Aesthetic Home Solutions White Wall Light",
+      "poster": "ls14.jpg",
+      "description": "Dimensions(LxBxH) in inches: 4x4x10, Bulb Recommended: CFL, LED, Incandescent; Bulb Included: No; Holder Type: E27, Color: Black, Material: Metal And Glass, Welcome To Aesthetic Home Solutions. We Deal In High Quality, Unique And Durable Chandeliers, Wall Lights, Hanging Lights, Lamps, Lamp Shades, Led Products, Etc. Aesthetic Home Solutions Is An Independent Brand Based Out Of New Delhi That Offers Quality Goods, By Combining Innovative Design With Quality, We Believe That Delivering Value Is The Only Way To Succeed And Grow. The Brand Has Good Online Presence And Now Serving To Whole Of India And Abroad.",
+      "price": "$ 2,480.00",
+      "bestSeller": false
+   },
+   {
+      "id": 15,
+      "category_id":"1001",
+      "title": "Somil Sconce Wall Lamp with Wooden Fitting and Glass Shade (Set of Two,Squire, White, All Fixture), Compatible with 5 to 80 Watt LED and Other E27 Holder Bulb",
+      "poster": "ls15.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 3000.00",
+      "bestSeller": false
+   },
+   {
+      "id": 16,
+      "category_id":"1002",
+      "title": "Aesthetic Home Solutions Aesthtic Home Solution Single Shade Multi Color Led Wall Light",
+      "poster": "ls4.jpg",
+      "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+      "price": "$ 1,199.00",
+      "bestSeller" : true
+   },
+   {
+    "id": 17,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : true
+ },
+ {
+    "id": 18,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : true
+ },
+ {
+    "id": 19,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : true
+ },
+ {
+    "id": 20,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : true
+ },
+ {
+    "id": 21,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : true
+ },
+ {
+    "id": 22,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : true
+ },
+ {
+    "id": 23,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : false
+ },
+ {
+    "id": 24,
+    "category_id":"1002",
+    "title": "CITRA European Creative Peacock LED Night Wall Lamp for Bedroom Bedside Lamp - Multi Color",
+    "poster": "ls5.jpg",
+    "description": "Product Type:- Chrome Wall Light, Material:-Fabric & Crystal & Metal, Holder & Plug type: E14 Holder Bulb Recommended:E14 Bulb, Number of Light-1, Bulb Included- NO, Product Dimension:Diameter 25,Height 37",
+    "price": "$ 4,299.00",
+    "bestSeller" : true
+ }
+  ]
+}

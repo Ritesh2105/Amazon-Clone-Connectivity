@@ -1,0 +1,24 @@
+
+#section-product-list h1
+{
+    margin:16px 0;
+}
+
+.grid
+{
+    display: grid;
+}
+
+.grid-gap-1
+{
+    column-gap: 0.5rem;
+}
+
+.grid-col-4
+{
+    grid-template-columns: repeat(4,1fr);
+}
+
+.product__container{
+    margin-bottom: 100px;
+}

@@ -1,0 +1,7 @@
+.grid-item-category{
+    padding-left: 134px;
+    height: 40px;
+    width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+}
